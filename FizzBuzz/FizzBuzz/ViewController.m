@@ -26,5 +26,5 @@ int main(int argc, const char * argv[]) {
   
 }
 
-// The error apparently has something to do with Pods not installing properly or maybe it has to do with the Test Host, which I tried to fix: http://www.robpercival.co.uk/upgrading-apps-to-xcode-7-linker-command-failed-with-exit-code-1/)
-// The test didn't work.  I'm not positive how to solve the problem and didn't want to mess anything up.
+// The error apparently has something to do with two files being linked, but I tried to delete files and make new ones, but can't seem to fix it.
+// I'm not positive how to solve the problem and didn't want to mess anything up.
